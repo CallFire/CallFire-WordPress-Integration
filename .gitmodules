@@ -1,0 +1,7 @@
+[submodule "vendor/CallFire-PHP-SDK"]
+	path = vendor/CallFire-PHP-SDK
+	url = https://github.com/CallFire/CallFire-PHP-SDK.git
+	branch = 1.1
+[submodule "vendor/Zend/Stdlib"]
+	path = vendor/Zend/Stdlib
+	url = https://github.com/zendframework/Component_ZendStdlib.git
