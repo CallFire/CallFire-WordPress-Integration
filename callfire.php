@@ -31,3 +31,5 @@ require_once CALLFIRE_PLUGIN_PATH.'callfire_admin.php';
 add_action('init', array('CallFireAdmin', 'init'));
 
 require_once CALLFIRE_PLUGIN_PATH.'callfire_helper.php';
+
+require_once CALLFIRE_PLUGIN_PATH.'callfire_clicktosubscribe.php';
